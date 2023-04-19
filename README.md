@@ -4,7 +4,7 @@
 
 ### This is my implementation of Dr. Conways 0 player game "Game of Life"
 - https://en.wikipedia.org/wiki/Conway's_Game_of_Life
-### This implementation is writting in C++ using the SFML 2d graphics library.
+### This implementation is writtin in C++ using the SFML 2d graphics library.
 - https://www.sfml-dev.org/
 
 This implementation is currently buildable in any Linux environment with GCC Or G++ as well as the SFML libraries installed and linked.
