@@ -1,7 +1,11 @@
 # conway
 
 ## Conway's Game of Life v2
+### How to use:
+- In any shell environment, navigate to the repository directory and run the 'run' file with `./run`
 
+### Dependencies:
+- SFML
 ### This is my implementation of Dr. Conways 0 player game "Game of Life"
 - https://en.wikipedia.org/wiki/Conway's_Game_of_Life
 ### This implementation is writtin in C++ using the SFML 2d graphics library.
