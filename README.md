@@ -16,3 +16,6 @@ I am planning on adding simple windows support with CMAKE in the near future, as
 The code is self explanatory, and there is an option to create your own starting bitmap for the generator to use.
 
 Enjoy
+
+![image](https://user-images.githubusercontent.com/18195980/233237645-f7131c85-b5c4-49be-a2f0-27a8622bfe03.png)
+
